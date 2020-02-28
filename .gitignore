@@ -6,3 +6,5 @@ variables.env
 
 serverless.yml
 notes.txt
+
+AWS Test.postman_collection.json
